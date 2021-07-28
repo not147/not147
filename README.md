@@ -16,40 +16,40 @@
 
   (1) Data Collection
 
-   Comsol multiphysics를 이용하여 모델링 후 가상 데이터 추출 (Comsol 데이터)
+      Comsol multiphysics를 이용하여 모델링 후 가상 데이터 추출 (Comsol 데이터)
 
-   현장에서 전기 비저항 방식으로 데이터 추출 (현장 데이터)
+      현장에서 전기 비저항 방식으로 데이터 추출 (현장 데이터)
 
   
   
 
   (2) Data Preprocessing
 
-   TDA (Topological Data Analysis) : 수치화된 데이터를 위상적 방법을 통해 시각 데이터로 보는 데이터 분석 기법
+      TDA (Topological Data Analysis) : 수치화된 데이터를 위상적 방법을 통해 시각 데이터로 보는 데이터 분석 기법
 
-   Min_Max scale : 현장 데이터와 Comsol 데이터 간의 차이를 보완
+      Min_Max scale : 현장 데이터와 Comsol 데이터 간의 차이를 보완
 
-   연속형 데이터 추가 : Comsol 데이터에 noise를 가해 데이터의 문제점 보완
+      연속형 데이터 추가 : Comsol 데이터에 noise를 가해 데이터의 문제점 보완
 
   
   
 
   (3) Model & Algorithms
 
-   Random Forest, XGBoost, SVM, RNN, CNN 등등 여러 알고리즘을 사용하여 정확도를 비교 (Regreesion 사용)
+      Random Forest, XGBoost, SVM, RNN, CNN 등등 여러 알고리즘을 사용하여 정확도를 비교 (Regreesion 사용)
 
   
   
 
   (4) Review
 
-   Comsol 데이터 만 사용했을 때는 정확도가 매우 낮았지만 현장 데이터가 추가된 시점에서는 정확도 상승
+      Comsol 데이터 만 사용했을 때는 정확도가 매우 낮았지만 현장 데이터가 추가된 시점에서는 정확도 상승
 
-   현장 데이터의 비율이 매우 낮음
+      현장 데이터의 비율이 매우 낮음
 
-   실제 현장에서 시험한 결과 45개 case에서 43개 case가 오차범위 내에 들어옴
+      실제 현장에서 시험한 결과 45개 case에서 43개 case가 오차범위 내에 들어옴
 
-   현장 데이터의 수를 증가시키면 더욱 좋은 결과가 나올 것으로 보임
+      현장 데이터의 수를 증가시키면 더욱 좋은 결과가 나올 것으로 보임
 
   
 
