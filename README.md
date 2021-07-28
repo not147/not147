@@ -21,6 +21,7 @@
    현장에서 전기 비저항 방식으로 데이터 추출 (현장 데이터)
 
   
+  
 
   (2) Data Preprocessing
 
@@ -31,11 +32,13 @@
    연속형 데이터 추가 : Comsol 데이터에 noise를 가해 데이터의 문제점 보완
 
   
+  
 
   (3) Model & Algorithms
 
    Random Forest, XGBoost, SVM, RNN, CNN 등등 여러 알고리즘을 사용하여 정확도를 비교 (Regreesion 사용)
 
+  
   
 
   (4) Review
@@ -53,6 +56,8 @@
   보러가기 : 
 
   논문링크:  http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cb1fd322c9f43100ffe0bdc3ef48d419
+  
+  
 
 ### #1. Project - FDS(이상거래탐지)
 
