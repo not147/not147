@@ -53,9 +53,9 @@
 
   
 
-  보러가기 : 
+  보러가기 : https://github.com/not147/not147/blob/main/master's%20thesis/master's%20thesis%20LHK.pdf
 
-  논문링크:  http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cb1fd322c9f43100ffe0bdc3ef48d419
+  논문링크 : http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cb1fd322c9f43100ffe0bdc3ef48d419
   
   
 
@@ -99,7 +99,7 @@
 
   
 
-  보러가기 : 
+  보러가기 : https://github.com/not147/not147/blob/main/FDS/FDS(%EC%9D%B4%EC%83%81%EA%B1%B0%EB%9E%98%ED%83%90%EC%A7%80).pdf
 
   ​	
 
